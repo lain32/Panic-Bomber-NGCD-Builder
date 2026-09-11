@@ -1,0 +1,15 @@
+Panic Bomber Neo Geo CD builder
+
+Game content comes from the user's supplied Panic Bomber cartridge ROMs
+and existing CD port. Original game and music credits remain with their
+respective creators and rightsholders. This builder does not claim authorship
+or grant rights to the underlying game or included audio.
+
+The conversion incorporates the Test 3 sample-bank handshake and Test 4
+ending-audio correction developed in this project, and preserves the source
+CD port's in-disc metadata and notices.
+
+Finalized audio and emulation checks used NeoCD/libretro, source revision:
+3118c6901787e863e80e79170d02d47657b3b0ab
+https://github.com/libretro/neocd_libretro
+No emulator binary, emulator source, BIOS or cartridge ROM ZIP is included.

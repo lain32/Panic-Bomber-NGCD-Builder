@@ -1,0 +1,409 @@
+{
+  "version": "1.0",
+  "baseline": "Test 3 program + Test 4 finalized music",
+  "roms": {
+    "073-c1.c1": {
+      "size": 1048576,
+      "sha256": "17fb2984118456f5092e39c750d4221ec20de0309f86b12d6c9cf4129c3c151e"
+    },
+    "073-c2.c2": {
+      "size": 1048576,
+      "sha256": "248679066d3c04aa7275477c93381d4178ae9eb1494b87a03d78a338782377ae"
+    },
+    "073-m1.m1": {
+      "size": 131072,
+      "sha256": "ee271b2b01572a18a8499f5e17ac0e2c6d8cfeca55f63f1b97770e89fa8529ff"
+    },
+    "073-p1.p1": {
+      "size": 524288,
+      "sha256": "972edb004513e5f18edaf9f972357485361e8bb59c910f49d02f8bef3a8b4d3a"
+    },
+    "073-s1.s1": {
+      "size": 131072,
+      "sha256": "1b0b4bd75ec970a07d09a9cbe04760cdb86d40b2878c30e4938ca3602e680d11"
+    },
+    "073-v1.v1": {
+      "size": 2097152,
+      "sha256": "05d605c205dad887931b11744396a71d53b770de5f0cd5a0bdd937a9ba616e69"
+    },
+    "073-v2.v2": {
+      "size": 1048576,
+      "sha256": "2433aec1313bed791c1588b2eeaaf9db116456115fef24579fd9c28b06796566"
+    }
+  },
+  "files": {
+    "FIX.FIX": {
+      "offset": 53248,
+      "size": 73152,
+      "sha256": "d1597118fc457cda850e0aa765533bff377f066670f55c9fe43e2e09f4dddee8"
+    },
+    "PCM1.PCM": {
+      "offset": 186368,
+      "size": 755712,
+      "sha256": "746bff9ecbdf80ed3e33ab095a28b5840c678f19a4ed4b2f5923c4559c565a91"
+    },
+    "PRG.PRG": {
+      "offset": 1234944,
+      "size": 262144,
+      "sha256": "c2af2ee968f03118559b2c91197d5c308a3f8c0dbfd5546457ce2ea9b8329fd6"
+    },
+    "QUIET.PCM": {
+      "offset": 5890048,
+      "size": 2048,
+      "sha256": "88ed1a04cb43fe65827d1cd9ef6d24a736108730b1ce6315d4d3ca79b6a0d140"
+    },
+    "SPR.SPR": {
+      "offset": 3596288,
+      "size": 1732992,
+      "sha256": "71dc1c25286d7297f8b47a0e75736021d1e6d2a00030ad82ddd08bde28aa2a99"
+    },
+    "VOICE0.PRG": {
+      "offset": 5892096,
+      "size": 194096,
+      "sha256": "f4b38249d66b242d379fa318b1ca0ece7252d829c62fd297ebf2920506307b48"
+    },
+    "VOICE1.PRG": {
+      "offset": 6086656,
+      "size": 164656,
+      "sha256": "aee2d2d4b516860fcc4ccec072ea69624928ee5eef67e19bff993b21ab9f543a"
+    },
+    "VOICE2.PRG": {
+      "offset": 6252544,
+      "size": 246320,
+      "sha256": "dfae5006ba5b09c2a9ab03d90cae62e386ad991b63e206edcd6ccce2ef6df7a6"
+    },
+    "VOICE3.PRG": {
+      "offset": 6500352,
+      "size": 71216,
+      "sha256": "4b34e2650254532e3abaffcf0719fbf5b8740608a92db0718b93ab10da867069"
+    },
+    "VOICE4.PRG": {
+      "offset": 6572032,
+      "size": 182832,
+      "sha256": "14f170d3b364393698b04be8a6df4af1a6aabd02765a1b0c4603725ce8971411"
+    },
+    "VOICE5.PRG": {
+      "offset": 6756352,
+      "size": 208432,
+      "sha256": "eafb668160adaf9557c17c4b387fee3cd89d637c5f976c04efdf6f48ad1c767e"
+    },
+    "Z81.Z80": {
+      "offset": 5824512,
+      "size": 65536,
+      "sha256": "fec6db3969373c7f3c4fe6407bd3256a8e43bee44227bd7648c2368ce02ef599"
+    }
+  },
+  "iso_bytes": 276480000,
+  "fixed_A_ids": [
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    76,
+    77,
+    79,
+    81,
+    82,
+    122,
+    228,
+    230
+  ],
+  "voice_ids": [
+    [
+      83,
+      85,
+      86,
+      87,
+      88,
+      94,
+      96,
+      97,
+      98,
+      99,
+      100,
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    [
+      203,
+      204,
+      206,
+      208,
+      210,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227
+    ],
+    [
+      161,
+      162,
+      165,
+      166,
+      167,
+      168,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    [
+      184,
+      185,
+      186,
+      187,
+      188,
+      190,
+      192,
+      193,
+      195,
+      196,
+      199,
+      201
+    ],
+    [
+      107,
+      109,
+      110,
+      111,
+      113,
+      118,
+      119,
+      124,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      133,
+      134,
+      135
+    ],
+    [
+      203,
+      204,
+      206,
+      208,
+      210,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      227
+    ],
+    [
+      184,
+      185,
+      186,
+      187,
+      188,
+      190,
+      192,
+      193,
+      195,
+      196,
+      199,
+      201
+    ],
+    [
+      161,
+      162,
+      165,
+      166,
+      167,
+      168,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    [
+      136,
+      139,
+      140,
+      142,
+      144,
+      145,
+      146,
+      149,
+      150,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159
+    ],
+    [
+      68,
+      70,
+      71,
+      72,
+      73,
+      74,
+      76,
+      77,
+      79,
+      81,
+      82,
+      122,
+      228
+    ]
+  ],
+  "bank_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    1,
+    3,
+    2,
+    5
+  ],
+  "cache_start": 755712,
+  "audio": {
+    "track02.wav": {
+      "size": 26638796,
+      "sha256": "d7ed20ba76b31d2f0d0b4a6181f33a392b9d13190f25d8363ebe88c500923182"
+    },
+    "track03.wav": {
+      "size": 26638796,
+      "sha256": "d234e5a0940596249d8e059b48980c65177af5fec8abdc687f35f5700251d39b"
+    },
+    "track04.wav": {
+      "size": 32457644,
+      "sha256": "6d34d051913149e423d452193e7893a4a6b6e7b70084a96321eb6d1a8994d515"
+    },
+    "track05.wav": {
+      "size": 26638796,
+      "sha256": "c7c666ac56f1a927b3b59940befe0684688a1f0cd58b75b57548fe0a44593824"
+    },
+    "track06.wav": {
+      "size": 26638796,
+      "sha256": "773e084117a3e54326861135f8734480ae0843ed8e3fbd7e445034a1349b4509"
+    },
+    "track07.wav": {
+      "size": 26638796,
+      "sha256": "bf4c36305916d30d0ac171a3156d44e53aa8bc1ff9a4be52256d8787338fce2f"
+    },
+    "track08.wav": {
+      "size": 26638796,
+      "sha256": "88c269cf5d366e371c6fef6930f864713f2aeceacfebda6323a2eb5fcf5177cb"
+    },
+    "track09.wav": {
+      "size": 26638796,
+      "sha256": "7d2d28657c0c5f3d4702eff87e7e4cb8d8f26ccd540e87c6ebf4fb4fde76ffce"
+    },
+    "track10.wav": {
+      "size": 26638796,
+      "sha256": "616cdbcf46f57d8df571e5dcd2bcfb09b4fe167eee73832b0d15e59c54d66503"
+    },
+    "track11.wav": {
+      "size": 26638796,
+      "sha256": "b651de08c8ca339e1a88170f40e6735b0c1b6355dc4863ef84e2353dbf85cfff"
+    },
+    "track12.wav": {
+      "size": 26638796,
+      "sha256": "e16dfcec258f6c57b4a57ec04fef7bed830313149712d2a822e1c06e95ee8f09"
+    },
+    "track13.wav": {
+      "size": 26638796,
+      "sha256": "3a6ffd2a89cdcdbafde9952c6542c63ca08940f5f1bd6be17027c3cf26380bac"
+    },
+    "track14.wav": {
+      "size": 26638796,
+      "sha256": "c976cfbf18742fd7fe5bc7c0391fa2a6b9f6d699ba12c7612433344aabeb429e"
+    },
+    "track15.wav": {
+      "size": 26638796,
+      "sha256": "d0d0e8edb4fbb42901a85d2404d24ccc348b7f2dc1f9bf19f8b92450674689c0"
+    },
+    "track16.wav": {
+      "size": 26638796,
+      "sha256": "182c743a1f8ba892ffc13931cc6f9cfbd9fb43abe0c97850faed7023958a3474"
+    },
+    "track17.wav": {
+      "size": 26638796,
+      "sha256": "689f934c65cda888919bfdbd363480d3221501d7ca83a2449f020e5f0a694c1e"
+    },
+    "track18.wav": {
+      "size": 26638796,
+      "sha256": "9469b1bd54b82fcf85eb8c12447098de6e959778ae5a877dfa892fc0856bebff"
+    }
+  },
+  "data_hashes": {
+    "21.pcm.z": "bee277c7e529b578819adc5c2e0f63a2956a559a1046245e99a3304fccdae161",
+    "22.pcm.z": "30ca4160de61d43c32d51e321be32aee0c783b24419db7fe724f1030db8edf80",
+    "23.pcm.z": "342eb2aa828611e9291ba826673bea17d31d15fa8cbb5822236a86ff46d7a404",
+    "25.pcm.z": "71052868ed354a2f9279384d4cddfab76d73572151a12e463e0b3669acd192c8",
+    "26.pcm.z": "33b0c318366107b67d877a3eda3106a331b545590c05074bbc0732d296afdcad",
+    "27.pcm.z": "09e6114bf1c950bee6bd08cf395c29c10446ec73f5e9758ba7aa9c05f71c6bb7",
+    "2b.pcm.z": "98732d7913cd8b6cd837d670624da6226c1acfe3e8eb5f8a517de9f6b53e6982",
+    "2d.pcm.z": "7da302a4aa00dc332d1db504334fe6eecb1ea8eb448c721988c7afb525aa1938",
+    "PRG.PRG.xor.z": "9fa30668f0cf11f8eecbde4645e5311cda078925febc6e743b632974e36447d5",
+    "Z81.Z80.xor.z": "8cf09fc9846601634b1ab7db548360b3a329df68f4202ea1efda9c87ec79729b",
+    "layout.json.z": "6010f65c531309b41c0b01e5c95ef03f649fb9d5d51208044f94e37d781f53f7"
+  },
+  "reference_test3_iso_sha256": "0e67d268d9f1b06b471fde5cff605dbc08780789e7c9e49c7ce37645267f3088",
+  "iso_sha256": "825d1cafa7191568b31c29a921049efab76a0dee07e61a6c59d7676994a8fb41",
+  "layout_note": "Unreferenced legacy sectors zero-filled. All filesystem game payloads and metadata match Test 3; audio matches Test 4."
+}
